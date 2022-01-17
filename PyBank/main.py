@@ -1,9 +1,4 @@
 # PyBank 
-# The greatest increase in profits (date and amount) over the entire period
-# The greatest decrease in profits (date and amount) over the entire period
-#
-# In addition, your final script should both print the analysis to the terminal and export a text file with the results
-
 import os
 import csv
 
