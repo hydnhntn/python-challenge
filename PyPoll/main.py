@@ -69,3 +69,4 @@ with open('Analysis/PyPoll_analysis.txt','w') as txtFile:
         txtFile.write(f'{candidateDict[candidate]}\n')
     txtFile.write('-----------------------\n')
     txtFile.write(f'Winner: {winner}\n')
+    txtFile.write('-----------------------\n')
